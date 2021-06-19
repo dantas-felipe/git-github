@@ -18,3 +18,5 @@
 <li><strong>git push -u origin main </strong> - <i>Envia os arquivos commitados para o repositório do Github</i></li>
 
 </ul>
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
